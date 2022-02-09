@@ -1,0 +1,80 @@
+img {
+	width: 250px;
+	height: 250px;
+	border-radius: 250px;
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+.etudiant {
+	text-align: center;
+}
+body {
+background-color :2D2F3F
+}
+
+.basket{
+	width: 20px;
+	height: 20px;
+	
+	margin: auto;
+}
+.passions{
+	font-size: 25;
+}
+.villes{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px;
+	font-size: 40;
+}
+.Lyon{
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	padding: 20px;
+}
+.imgL{
+	display: flex;
+	flex-direction: row;
+	justify-content: left;
+	padding: 20px;
+}
+.NY{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px;
+}
+.imgN{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px;
+}
+.Tokyo{
+	display: flex;
+	flex-direction: row;
+	justify-content: right;
+	padding: 20px;
+}
+.imgT{
+	display: flex;
+	flex-direction: row;
+	justify-content: right;
+	padding: 20px;
+}
+.immages{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	padding: 20px;
+}
+i{
+	width: 250px;
+	height: 250px;
+	border-radius: 250px;
+	margin: auto;
+}
